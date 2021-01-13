@@ -1,0 +1,10 @@
+name: GlobalStats
+main: com.anotherdeveloper.globalstats.GlobalStats
+version: 1.0.0
+description: Global Stats plugin.
+author: [anotherdeveloper]
+api-version: 1.13
+commands:
+  globalstats:
+    aliases: [gs, serverstats]
+    description: Shows you the servers stats.

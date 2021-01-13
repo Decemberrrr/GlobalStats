@@ -1,0 +1,28 @@
+Menu:
+  Title: "&cGlobal Stats"
+  Items:
+    DiamondPickaxe:
+      Name: "&e&lOres Mined:"
+      Amount: "&6&l{oresmined}"
+    DiamondShovel:
+      Name: "&e&lDirt Dug:"
+      Amount: "&6&l{dirtdug}"
+    CraftingTable:
+      Name: "&e&lItems Crafted:"
+      Amount: "&6&l{itemscrafted}"
+    Bow:
+      Name: "&e&lArrows Shot:"
+      Amount: "&6&l{arrowsshot}"
+    GreenDye:
+      Name: "&e&lPlayers Killed:"
+      Amount: "&6&l{playerskilled}"
+    RottenFlesh:
+      Name: "&e&lMobs Killed By Players:"
+      Amount: "&6&l{mobskilled}"
+    Stone:
+      Name: "&e&lHow Many Blocks Were Broken / Placed:"
+      Amount: "&6&l{blocks}"
+    Note1:
+      Message: "&7Message 1 Here."
+    Note2:
+      Message: "&7Message 2 Here."
