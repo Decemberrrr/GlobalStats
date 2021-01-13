@@ -12,7 +12,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
 
@@ -25,13 +24,13 @@
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/Decemberrrr/repo.svg??style=for-the-badge&logo=appveyor
+[contributors-shield]: https://img.shields.io/github/contributors/Decemberrrr/GlobalStats?style=for-the-badge&logo=appveyor
 [contributors-url]: https://github.com/Decemberrrr/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Decemberrrr/repo.svg?style=for-the-badge&logo=appveyor
-[forks-url]: https://github.com/Decemberrrr/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/Decemberrrr/repo.svg?style=for-the-badge&logo=appveyor
-[stars-url]: https://github.com/Decemberrrr/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Decemberrrr/repo.svg?style=for-the-badge&logo=appveyor
-[issues-url]: https://github.com/Decemberrrr/repo/issues
-[license-shield]: https://img.shields.io/github/license/Decemberrrr/repo.svg?style=for-the-badge&logo=appveyor
-[license-url]: https://github.com/Decemberrrr/repo/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/Decemberrrr/GlobalStats?style=for-the-badge&logo=appveyor
+[forks-url]: https://github.com/Decemberrrr/GlobalStats/network/members
+[stars-shield]: https://img.shields.io/github/stars/Decemberrrr/GlobalStats?style=for-the-badge&logo=appveyor
+[stars-url]: https://github.com/Decemberrrr/GlobalStats/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Decemberrrr/GlobalStats?style=for-the-badge&logo=appveyor
+[issues-url]: https://github.com/Decemberrrr/GlobalStats/issues
+[license-shield]: https://img.shields.io/github/license/Decemberrrr/GlobalStats?style=for-the-badge&logo=appveyor
+[license-url]: https://github.com/Decemberrrr/GlobalStats/blob/master/LICENSE.txt
